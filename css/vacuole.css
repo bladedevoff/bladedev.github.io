@@ -1,9 +1,1 @@
-/* 站点图片大小增加 */
-#nav #site-name i {
-  font-size: 1rem !important;
-}
-
-/* 站点图标hover返回首页图标减小 */
-#nav #site-name:after {
-  font-size: 18px;
-}
+#nav #site-name i{font-size:1rem!important}#nav #site-name:after{font-size:18px}
